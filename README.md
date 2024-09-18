@@ -9,7 +9,7 @@ This project focuses on the creation of a functional bug-free version of a Germa
 # Installation
 Clone the repository:
 ```bash
- git clone https://github.com/yourusername/yourproject.git
+ git clone https://github.com/alissatsay/IgelAergernGame.git
 ```
 
 # Usage
