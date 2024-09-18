@@ -1,4 +1,5 @@
 # Igel Aergern - German Table Game
+This project focuses on the creation of a functional bug-free version of a German table game Igel Aergern for multiple players.
 
 # Table of Contents
 - [Installation](#installation)
